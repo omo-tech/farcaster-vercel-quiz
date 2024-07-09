@@ -1,19 +1,19 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of Doctor with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What does aller mean?",
+      "answers": ["To go", "To become", "To stay"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What does sortir mean?",
+      "answers": ["To come", "To leave", "To go out, get out"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What does revenir mean?",
+      "answers": ["To pass, go by", "To come back", "To go"],
       "correctAnswerIndex": 0
     }
   ]
